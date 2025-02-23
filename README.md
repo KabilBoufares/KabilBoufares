@@ -17,7 +17,7 @@ Highly motivated and results-oriented Computer Science student with a strong fou
 
 ##  Skills
 - **Programming Languages:** Java, C, Python, HTML/CSS, JavaScript, SQL, MySQL
-- **Frameworks & Tools:** React, Spring Boot, Git
+- **Frameworks & Tools:** React, Spring Boot, Git , Vue js 
 - **Concepts:** OOP, Data Structures, Algorithms, Database Management, AI, Internet Technology, Systems Programming, Computer Architecture
 
 
