@@ -7,7 +7,7 @@
 - **LinkedIn:** [linkedin.com/in/kabilboufares](https://linkedin.com/in/kabilboufares)
 
 ##  About Me
-Highly motivated and results-oriented Computer Science student with a strong foundation in Object-Oriented Programming (OOP), data structures, and algorithms. Seeking a part-time job at Vneuron to gain practical experience in software development while continuing my studies. Eager to contribute to a dynamic team and learn from industry professionals.
+Highly motivated and results-oriented Computer Science student with a strong foundation in Object-Oriented Programming (OOP).
 
 ##  Education
 - **Faculty of Sciences of Tunis, University of Tunis El Manar** (Sep 2022 – Present)  
